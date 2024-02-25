@@ -1,0 +1,4 @@
+﻿  FizzBuzz.cpp
+E:\Programming\tyo-zetsu\FizzBuzz\FizzBuzz\FizzBuzz.cpp(27,38): warning C4101: 'invalid_argument': ローカル変数は 1 度も使われていません。
+E:\Programming\tyo-zetsu\FizzBuzz\FizzBuzz\FizzBuzz.cpp(32,34): warning C4101: 'invalid_argument': ローカル変数は 1 度も使われていません。
+  FizzBuzz.vcxproj -> E:\Programming\tyo-zetsu\FizzBuzz\x64\Debug\FizzBuzz.exe
